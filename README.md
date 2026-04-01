@@ -33,8 +33,9 @@ Telco Customer Churn dataset from Kaggle.
 - Secure data handling required
 
 ## Team Members
-- Your Name
-- Member 2
-- Member 3
-- Member 4
+Crukshan Sooriyaarachchi
+Imansa Gardiyamunasingha Arachchilage
+Kusal Rajapaksha Pathiranage
+Movindu Perera
+
  
